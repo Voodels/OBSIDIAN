@@ -1,5 +1,7 @@
 
 //notes written 
+![[1724830250393.jpg]]
+
 
 ![[Pasted image 20240824172544.png]]
 ![[Pasted image 20240824172705.png]]
