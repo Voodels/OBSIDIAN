@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "9aa653a132b50103",
+    "type": "split",
+    "children": [
+      {
+        "id": "57cbb45b25975c0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e765d9ea6933a473",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TY/SEM1/DBMS/PYQ/MSE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae20bde0245f3452",
+    "type": "split",
+    "children": [
+      {
+        "id": "69044b61410a67a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b89f0242c3ff0137",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cd652dd5019e2ac2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "20a4959fda91477f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "91076a1ff971b72f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4b95b789fce1229",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad2e8debb1a99606",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TY/SEM1/DBMS/PYQ/MSE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d7db94febd0ddc7f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TY/SEM1/DBMS/PYQ/MSE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "234ae5723336fce2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4fa89097f2566a07",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TY/SEM1/DBMS/PYQ/MSE.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e765d9ea6933a473",
+  "lastOpenFiles": [
+    "TY/SEM1/DBMS/CH1/Relational algebra.md",
+    "TY/SEM1/DBMS/PYQ/MSE.md",
+    "Untitled",
+    "TY/SEM1/DBMS/PYQ",
+    "TY/SEM1/DBMS/CH1/screenshots/Pasted image 20240824172544.png",
+    "TY/SEM1/DBMS/CH1/screenshots",
+    "TY/SEM1/DBMS/CH1/screenshots/Pasted image 20240824180627.png",
+    "TY/SEM1/DBMS/CH1/screenshots/Pasted image 20240824172705.png",
+    "TY/SEM1/DBMS/CH1/screenshots/Pasted image 20240824180605.png",
+    "TY/SEM1/DBMS/CH1/screenshots/Pasted image 20240824180552.png",
+    "TY/SEM1/DBMS/CH1/screenshots/Pasted image 20240824180432.png",
+    "TY/SEM1/DBMS/CH1/screenshots/Pasted image 20240824180354.png",
+    "TY/SEM1/DBMS/CH1/screenshots/Pasted image 20240824180235.png",
+    "TY/SEM1/DBMS/CH1/screenshots/Pasted image 20240824180104.png",
+    "TY/SEM1/DBMS/CH1/screenshots/Pasted image 20240824175906.png",
+    "TY/SEM1/DBMS/CH1",
+    "TY/SEM1/DBMS",
+    "TY/SEM1/OS/CH2/ch6.ppt",
+    "TY/SEM1/OS/CH2/ch7.ppt",
+    "TY/SEM1/OS/CH2/Unconfirmed 751646.crdownload",
+    "TY/SEM1/OS/CH2/ch4.ppt",
+    "TY/SEM1/OS/CH2/Unconfirmed 196598.crdownload",
+    "TY/SEM1/CA/ch1/longestCommonSubseq/LCS.md",
+    "TY/SEM1/CA/ch1/MatrixChainMulti/MCM.md",
+    "TY/SEM1/CA/ch1/knapsack/Knapsack Problem.md",
+    "Untitled.canvas",
+    "Design/Design Theory.md",
+    "DEV/Freelance1-AgriImportFertilizers.md",
+    "DSA/DSA.md"
+  ]
+}
