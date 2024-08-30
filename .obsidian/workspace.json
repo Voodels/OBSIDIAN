@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/TY/SEM1/DBMS/CH2/Chapter 2 Notes.md",
+                "file": "Obsidian Vault/TY/SEM1/DBMS/CH3/$$ CH3 Notes Intro SQL $$.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.5110321044922
+    "width": 200
   },
   "right": {
     "id": "77a45e9bd543194e",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/TY/SEM1/DBMS/CH2/Chapter 2 Notes.md",
+                "file": "Obsidian Vault/TY/SEM1/DBMS/CH3/$$ CH3 Notes Intro SQL $$.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Vault/TY/SEM1/DBMS/CH2/Chapter 2 Notes.md",
+                "file": "Obsidian Vault/TY/SEM1/DBMS/CH3/$$ CH3 Notes Intro SQL $$.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault/TY/SEM1/DBMS/CH2/Chapter 2 Notes.md"
+                "file": "Obsidian Vault/TY/SEM1/DBMS/CH3/$$ CH3 Notes Intro SQL $$.md"
               }
             }
           }
@@ -148,25 +148,31 @@
   },
   "active": "6887828e8bed3c58",
   "lastOpenFiles": [
-    "Obsidian Vault/TY/SEM1/DBMS/CH2/screenshots/Pasted image 20240830113551.png",
+    "Pasted image 20240830175603.png",
+    "Obsidian Vault/TY/SEM1/DBMS/CH2/screenshots/Pasted image 20240830171559.png",
+    "Obsidian Vault/TY/SEM1/DBMS/CH3/$$ CH3 Notes Intro SQL $$.md",
+    "Obsidian Vault/TY/SEM1/DBMS/CH3",
+    "Obsidian Vault/TY/SEM1/DBMS/CH2/Relational algebra.md",
+    "Obsidian Vault/TY/SEM1/DBMS/CH2/screenshots/Pasted image 20240830172631.png",
+    "Obsidian Vault/TY/SEM1/DBMS/CH2/screenshots/Pasted image 20240830172459.png",
+    "Obsidian Vault/TY/SEM1/DBMS/CH2/screenshots/Pasted image 20240830172419.png",
+    "Obsidian Vault/TY/SEM1/DBMS/CH2/screenshots/Pasted image 20240830172356.png",
+    "Obsidian Vault/TY/SEM1/DBMS/CH2/screenshots/Pasted image 20240830172315.png",
+    "Obsidian Vault/TY/SEM1/DBMS/CH2/screenshots/Pasted image 20240830172124.png",
+    "Obsidian Vault/TY/SEM1/DBMS/CH2/screenshots/Pasted image 20240830172038.png",
+    "Obsidian Vault/TY/SEM1/DBMS/CH2/screenshots/Pasted image 20240830171943.png",
+    "Obsidian Vault/TY/SEM1/DBMS/CH2/screenshots/Pasted image 20240830171832.png",
     "Obsidian Vault/TY/SEM1/DBMS/CH2/Chapter 2 Notes.md",
     "Obsidian Vault/TY/SEM1/DBMS/CH2/screenshots",
     "Obsidian Vault/TY/SEM1/DBMS/Links.md",
     "Obsidian Vault/TY/SEM1/DBMS/CH1/ch1.pdf",
-    "Obsidian Vault/TY/SEM1/DBMS/CH2/screenshots/1724830250393.jpg",
-    "Obsidian Vault/TY/SEM1/DBMS/CH2/Relational algebra.md",
     "Obsidian Vault/TY/SEM1/DBMS/CH1/Chapter 1 Notes.md",
     "Obsidian Vault/TY/SEM1/DBMS/CH2",
     "Obsidian Vault/TY/SEM1/DBMS/CH1/Untitled.md",
-    "Obsidian Vault/TY/SEM1/DBMS/CH1/Pasted image 20240830111018.png",
-    "Pasted image 20240830111424.png",
     "Obsidian Vault/TY/SEM1/DBMS/PYQ/MSE.md",
-    "Obsidian Vault/TY/SEM1/DBMS/CH1/screenshots/Pasted image 20240824172544.png",
     "Obsidian Vault/TY/SEM1/MSE PLAN/Plan.md",
     "Obsidian Vault/TY/SEM1/DBMS/31_prepare/study.md",
     "Obsidian Vault/TY/SEM1/Graph Theory/Untitled.md",
-    "Obsidian Vault/TY/SEM1/Graph Theory/screenshots/Pasted image 20240829111137.png",
-    "Obsidian Vault/TY/SEM1/Graph Theory/screenshots/Pasted image 20240829130712.png",
     "Obsidian Vault/TY/SEM1/Graph Theory/screenshots",
     "Obsidian Vault/TY/SEM1/CA/ch1/knapsack/Knapsack Problem.md",
     "Obsidian Vault/TY/SEM1/DBMS/31_prepare"

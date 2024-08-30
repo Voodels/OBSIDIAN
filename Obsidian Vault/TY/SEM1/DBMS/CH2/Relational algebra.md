@@ -41,4 +41,28 @@ leads to ambiguity
   ![[Pasted image 20240824180552.png]]
   ![[Pasted image 20240824180605.png]]
   ![[Pasted image 20240824180627.png]]
+  ![[Pasted image 20240830144459.png]]
   
+  The  Assignment operator 
+	  (<-) :   
+	  ![[Pasted image 20240830171520.png]]
+Rename Operator 
+		![[Pasted image 20240830171559.png]]
+
+Join Operation 
+	
+	Carteion operation followed by selection operation 
+	
+	![[Pasted image 20240830171832.png]]
+	![[Pasted image 20240830171943.png]]
+	\\
+![[Pasted image 20240830172038.png]]
+![[Pasted image 20240830172124.png]]
+![[Pasted image 20240830172315.png]]
+![[Pasted image 20240830172356.png]]
+![[Pasted image 20240830172419.png]]
+
+![[Pasted image 20240830172459.png]]![[Pasted image 20240830172631.png]]
+**All -> Division 
+
+$$
