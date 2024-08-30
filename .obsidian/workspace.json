@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "9aa653a132b50103",
+    "id": "623862a0ad591e94",
     "type": "split",
     "children": [
       {
-        "id": "76eccbf1e42008f3",
+        "id": "786d73d27f8cee4a",
         "type": "tabs",
         "children": [
           {
-            "id": "97b9beb545da232a",
+            "id": "6887828e8bed3c58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TY/SEM1/Graph Theory/Untitled.md",
+                "file": "Obsidian Vault/TY/SEM1/DBMS/CH2/Chapter 2 Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ae20bde0245f3452",
+    "id": "ef37df272aa221d2",
     "type": "split",
     "children": [
       {
-        "id": "69044b61410a67a6",
+        "id": "8a557e729b13929d",
         "type": "tabs",
         "children": [
           {
-            "id": "b89f0242c3ff0137",
+            "id": "af4cbe69b9985f65",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "cd652dd5019e2ac2",
+            "id": "cdc9e0204c474345",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "20a4959fda91477f",
+            "id": "fbc6c8944ebc94ac",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 390.5110321044922
   },
   "right": {
-    "id": "91076a1ff971b72f",
+    "id": "77a45e9bd543194e",
     "type": "split",
     "children": [
       {
-        "id": "d4b95b789fce1229",
+        "id": "888c2f6fbef57064",
         "type": "tabs",
         "children": [
           {
-            "id": "ad2e8debb1a99606",
+            "id": "633fb69a3eabad60",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TY/SEM1/Graph Theory/Untitled.md",
+                "file": "Obsidian Vault/TY/SEM1/DBMS/CH2/Chapter 2 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "d7db94febd0ddc7f",
+            "id": "5118bb2c2d7fe82a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TY/SEM1/Graph Theory/Untitled.md",
+                "file": "Obsidian Vault/TY/SEM1/DBMS/CH2/Chapter 2 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "234ae5723336fce2",
+            "id": "8eeba49747c9e400",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "4fa89097f2566a07",
+            "id": "6462c1d4ecb490a4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "TY/SEM1/Graph Theory/Untitled.md"
+                "file": "Obsidian Vault/TY/SEM1/DBMS/CH2/Chapter 2 Notes.md"
               }
             }
           }
@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,39 +146,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b89f0242c3ff0137",
+  "active": "6887828e8bed3c58",
   "lastOpenFiles": [
-    "Pasted image 20240829130712.png",
-    "Pasted image 20240829130039.png",
-    "Pasted image 20240829130030.png",
-    "Pasted image 20240829125711.png",
-    "Pasted image 20240829114537.png",
-    "Pasted image 20240829111934.png",
-    "Pasted image 20240829111706.png",
-    "Pasted image 20240829111137.png",
-    "TY/SEM1/SIH/IDEA.md",
-    "TY/SEM1/Graph Theory/Untitled.md",
-    "TY/SEM1/SIH",
-    "TY/SEM1/Graph Theory",
-    "TY/SEM1/DBMS/PYQ/MSE.md",
-    "TY/SEM1/DBMS/PYQ/padhle_bhadve",
-    "TY/SEM1/DBMS/CH1/Relational algebra.md",
-    "TY/SEM1/DBMS/PYQ",
-    "TY/SEM1/DBMS/CH1/screenshots/Pasted image 20240824172544.png",
-    "TY/SEM1/DBMS/CH1/screenshots",
-    "TY/SEM1/DBMS/CH1/screenshots/Pasted image 20240824180627.png",
-    "TY/SEM1/DBMS/CH1/screenshots/Pasted image 20240824172705.png",
-    "TY/SEM1/DBMS/CH1",
-    "TY/SEM1/DBMS",
-    "TY/SEM1/OS/CH2/ch6.ppt",
-    "TY/SEM1/OS/CH2/ch7.ppt",
-    "TY/SEM1/OS/CH2/Unconfirmed 751646.crdownload",
-    "TY/SEM1/CA/ch1/longestCommonSubseq/LCS.md",
-    "TY/SEM1/CA/ch1/MatrixChainMulti/MCM.md",
-    "TY/SEM1/CA/ch1/knapsack/Knapsack Problem.md",
-    "Untitled.canvas",
-    "Design/Design Theory.md",
-    "DEV/Freelance1-AgriImportFertilizers.md",
-    "DSA/DSA.md"
+    "Obsidian Vault/TY/SEM1/DBMS/CH2/screenshots/Pasted image 20240830113551.png",
+    "Obsidian Vault/TY/SEM1/DBMS/CH2/Chapter 2 Notes.md",
+    "Obsidian Vault/TY/SEM1/DBMS/CH2/screenshots",
+    "Obsidian Vault/TY/SEM1/DBMS/Links.md",
+    "Obsidian Vault/TY/SEM1/DBMS/CH1/ch1.pdf",
+    "Obsidian Vault/TY/SEM1/DBMS/CH2/screenshots/1724830250393.jpg",
+    "Obsidian Vault/TY/SEM1/DBMS/CH2/Relational algebra.md",
+    "Obsidian Vault/TY/SEM1/DBMS/CH1/Chapter 1 Notes.md",
+    "Obsidian Vault/TY/SEM1/DBMS/CH2",
+    "Obsidian Vault/TY/SEM1/DBMS/CH1/Untitled.md",
+    "Obsidian Vault/TY/SEM1/DBMS/CH1/Pasted image 20240830111018.png",
+    "Pasted image 20240830111424.png",
+    "Obsidian Vault/TY/SEM1/DBMS/PYQ/MSE.md",
+    "Obsidian Vault/TY/SEM1/DBMS/CH1/screenshots/Pasted image 20240824172544.png",
+    "Obsidian Vault/TY/SEM1/MSE PLAN/Plan.md",
+    "Obsidian Vault/TY/SEM1/DBMS/31_prepare/study.md",
+    "Obsidian Vault/TY/SEM1/Graph Theory/Untitled.md",
+    "Obsidian Vault/TY/SEM1/Graph Theory/screenshots/Pasted image 20240829111137.png",
+    "Obsidian Vault/TY/SEM1/Graph Theory/screenshots/Pasted image 20240829130712.png",
+    "Obsidian Vault/TY/SEM1/Graph Theory/screenshots",
+    "Obsidian Vault/TY/SEM1/CA/ch1/knapsack/Knapsack Problem.md",
+    "Obsidian Vault/TY/SEM1/DBMS/31_prepare"
   ]
 }
