@@ -11,9 +11,11 @@
             "id": "6887828e8bed3c58",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/TY/SEM1/DBMS/PYQ/pyq.pdf"
+                "file": "Obsidian Vault/TY/SEM1/DBMS/CH4/Intermediate SQL.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "77a45e9bd543194e",
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/TY/SEM1/DBMS/PYQ/pyq.pdf",
+                "file": "Obsidian Vault/TY/SEM1/DBMS/CH4/Intermediate SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Vault/TY/SEM1/DBMS/PYQ/pyq.pdf",
+                "file": "Obsidian Vault/TY/SEM1/DBMS/CH4/Intermediate SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault/TY/SEM1/DBMS/PYQ/pyq.pdf"
+                "file": "Obsidian Vault/TY/SEM1/DBMS/CH4/Intermediate SQL.md"
               }
             }
           }
@@ -146,7 +149,10 @@
   },
   "active": "6887828e8bed3c58",
   "lastOpenFiles": [
+    "Pasted image 20240830212241.png",
     "Obsidian Vault/TY/SEM1/DBMS/CH4/Intermediate SQL.md",
+    "Pasted image 20240830212238.png",
+    "Pasted image 20240830210426.png",
     "Obsidian Vault/TY/SEM1/DBMS/PYQ/pyq.pdf",
     "Obsidian Vault/TY/SEM1/DBMS/PYQ/pyq.pdf.crdownload",
     "Obsidian Vault/TY/SEM1/DBMS/PYQ/MSE.md",
@@ -163,9 +169,6 @@
     "Obsidian Vault/TY/SEM1/DBMS/CH2/screenshots/Pasted image 20240830172631.png",
     "Obsidian Vault/TY/SEM1/DBMS/CH2/screenshots/Pasted image 20240830172459.png",
     "Obsidian Vault/TY/SEM1/DBMS/CH2/screenshots/Pasted image 20240830172419.png",
-    "Obsidian Vault/TY/SEM1/DBMS/CH2/screenshots/Pasted image 20240830172356.png",
-    "Obsidian Vault/TY/SEM1/DBMS/CH2/screenshots/Pasted image 20240830172315.png",
-    "Obsidian Vault/TY/SEM1/DBMS/CH2/screenshots/Pasted image 20240830172124.png",
     "Obsidian Vault/TY/SEM1/DBMS/CH2/Chapter 2 Notes.md",
     "Obsidian Vault/TY/SEM1/DBMS/CH2/screenshots",
     "Obsidian Vault/TY/SEM1/DBMS/Links.md",

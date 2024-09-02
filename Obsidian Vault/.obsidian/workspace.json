@@ -11,11 +11,9 @@
             "id": "97b9beb545da232a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "TY/SEM1/Graph Theory/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "TY/SEM1/OS/screenshot/Pasted image 20240901215338.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TY/SEM1/Graph Theory/Untitled.md",
+                "file": "TY/SEM1/OS/screenshot/Pasted image 20240901215338.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TY/SEM1/Graph Theory/Untitled.md",
+                "file": "TY/SEM1/OS/screenshot/Pasted image 20240901215338.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TY/SEM1/Graph Theory/Untitled.md"
+                "file": "TY/SEM1/OS/screenshot/Pasted image 20240901215338.png"
               }
             }
           }
@@ -133,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,31 +146,34 @@
   },
   "active": "b89f0242c3ff0137",
   "lastOpenFiles": [
-    "Pasted image 20240829130712.png",
-    "Pasted image 20240829130039.png",
-    "Pasted image 20240829130030.png",
-    "Pasted image 20240829125711.png",
-    "Pasted image 20240829114537.png",
-    "Pasted image 20240829111934.png",
-    "Pasted image 20240829111706.png",
-    "Pasted image 20240829111137.png",
-    "TY/SEM1/SIH/IDEA.md",
+    "TY/SEM1/OS/CPU scheduling.md",
+    "TY/SEM1/OS/screenshot/Pasted image 20240901215722.png",
+    "TY/SEM1/OS/screenshot/Pasted image 20240901215459.png",
+    "TY/SEM1/OS/screenshot/Pasted image 20240901215338.png",
+    "TY/SEM1/OS/screenshot/Pasted image 20240901185649.png",
+    "TY/SEM1/OS/screenshot/Pasted image 20240901214827.png",
+    "TY/SEM1/OS/CH3.md",
+    "TY/SEM1/OS/Untitled",
+    "TY/SEM1/OS/screenshot/Pasted image 20240901185700.png",
+    "TY/SEM1/OS/screenshot/Pasted image 20240901174542.png",
+    "TY/SEM1/OS/screenshot/Pasted image 20240901174531.png",
+    "TY/SEM1/OS/screenshot/Pasted image 20240901174523.png",
+    "TY/SEM1/OS/screenshot/Pasted image 20240901174510.png",
+    "TY/SEM1/OS/CH3",
+    "TY/SEM1/OS/CH2.md",
+    "TY/SEM1/OS/CH1.md",
+    "TY/SEM1/OS/screenshot",
+    "TY/SEM1/MSE PLAN/pyq.pdf",
+    "TY/SEM1/OS/BOOK/Solution_Operating_System_Concepts_By_Ga.pdf",
     "TY/SEM1/Graph Theory/Untitled.md",
+    "TY/SEM1/SIH/IDEA.md",
     "TY/SEM1/SIH",
     "TY/SEM1/Graph Theory",
     "TY/SEM1/DBMS/PYQ/MSE.md",
     "TY/SEM1/DBMS/PYQ/padhle_bhadve",
     "TY/SEM1/DBMS/CH1/Relational algebra.md",
     "TY/SEM1/DBMS/PYQ",
-    "TY/SEM1/DBMS/CH1/screenshots/Pasted image 20240824172544.png",
     "TY/SEM1/DBMS/CH1/screenshots",
-    "TY/SEM1/DBMS/CH1/screenshots/Pasted image 20240824180627.png",
-    "TY/SEM1/DBMS/CH1/screenshots/Pasted image 20240824172705.png",
-    "TY/SEM1/DBMS/CH1",
-    "TY/SEM1/DBMS",
-    "TY/SEM1/OS/CH2/ch6.ppt",
-    "TY/SEM1/OS/CH2/ch7.ppt",
-    "TY/SEM1/OS/CH2/Unconfirmed 751646.crdownload",
     "TY/SEM1/CA/ch1/longestCommonSubseq/LCS.md",
     "TY/SEM1/CA/ch1/MatrixChainMulti/MCM.md",
     "TY/SEM1/CA/ch1/knapsack/Knapsack Problem.md",

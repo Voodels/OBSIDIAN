@@ -1,0 +1,493 @@
+[
+  {
+    "id": 1,
+    "name": "AGRI Plant Growth Regulator",
+    "category": "Liquids",
+    "details": [
+      "Plant growth promoters are substances that enhance the development of plants.",
+      "They help in boosting the growth of the crop as well as its quality.",
+      "The presence of different types of plant hormones such as cytokinins, gibberellins and auxins in plant growth promoters helps in influencing better plant growth."
+    ],
+    "images": [
+      "https://i.imgur.com/Yxv5ag6.jpeg",
+      "https://i.imgur.com/Yxv5ag6.jpeg"
+    ],
+    "youtube_link": "https://www.youtube.com/watch?v=85kTHwJ1Ju8",
+    "featured": true,
+    "top_selling": false
+  },
+  {
+    "id": 2,
+    "name": "AGRI Seaweed",
+    "category": "Liquids",
+    "details": [
+      "It is improves plants growth, fruit quality, yield.",
+      "It is improves salinity tolerance in plants.",
+      "It increase more fruitset & decrease flower drop.",
+      "It is improves plant defence against various pathogens.",
+      "It is increase fruit size, weight, color, luster of plants.",
+      "It's inhance microbial population in soil which result in easy availability of more nutrient to plant."
+    ],
+    "images": [
+      "https://i.imgur.com/pBRGWqi.jpeg",
+      "https://i.imgur.com/pBRGWqi.jpeg"
+    ],
+    "youtube_link": "https://www.youtube.com/watch?v=85kTHwJ1Ju8",
+    "featured": false,
+    "top_selling": true
+  },
+  {
+    "id": 3,
+    "name": "AGRI Sugarcane Special",
+    "category": "Liquids",
+    "details": [
+      "Blend of micro nutrients in balanced proportion.",
+      "All nutrients easily available to plant, which result in vigorous growth of sugarcane crops.",
+      "Increases disease resistance in crops.",
+      "Improves quality of the cane, weight of the cane & sweetness of the cane.",
+      "Increases the photosynthesis process."
+    ],
+    "images": [
+      "https://i.imgur.com/SpaYpRj.jpeg",
+      "https://i.imgur.com/SpaYpRj.jpeg"
+    ],
+    "youtube_link": "https://www.youtube.com/watch?v=85kTHwJ1Ju8",
+    "featured": false,
+    "top_selling": false
+  },
+  {
+    "id": 4,
+    "name": "AGRI Vegetable Special",
+    "category": "Liquids",
+    "details": [
+      "Chelated multi micronutrient fertilizer easily & quickly absorbed by crops.",
+      "It's plays an active role in respiratory function.",
+      "It is increase chlorophyll concentration & Photosynthetic activity.",
+      "It use stimulates rapid root growth, enhance photosynthesis & uptake of nutrients.",
+      "It's helps to overcome stress condition."
+    ],
+    "images": [
+      "https://i.imgur.com/JILugwK.jpeg",
+      "https://i.imgur.com/JILugwK.jpeg"
+    ],
+    "youtube_link": "https://www.youtube.com/watch?v=85kTHwJ1Ju8",
+    "featured": false,
+    "top_selling": false
+  },
+  {
+    "id": 5,
+    "name": "AGRI Fruit Development",
+    "category": "Liquids",
+    "details": [
+      "Fruit Development is biostimulant witch improves more fruit set & reduce flower drop.",
+      "It enhance fruit size, weight, luster which results in high crop yield.",
+      "It play major role in cell elongation & cell division.",
+      "It use stimulates rapid root growth, enhance photosynthesis & uptake of nutrients.",
+      "It helps increases shelf life of the produce."
+    ],
+    "images": [
+      "https://i.imgur.com/bkaBvz7.jpeg",
+      "https://i.imgur.com/bkaBvz7.jpeg"
+    ],
+    "youtube_link": "https://www.youtube.com/watch?v=85kTHwJ1Ju8",
+    "featured": false,
+    "top_selling": false
+  },
+  {
+    "id": 6,
+    "name": "AGRI Flowering Special",
+    "category": "Liquids",
+    "details": [
+      "Increase in number of flowers.",
+      "Reduction in flower drop.",
+      "Helps in abiotic stress resistance.",
+      "Helps in rapid & healthy growth of crops.",
+      "Increases quantity and quality of yield.",
+      "It is an organic bio products, safe for all crops & human being."
+    ],
+    "images": [
+      "https://i.imgur.com/kqujSoW.jpeg",
+      "https://i.imgur.com/kqujSoW.jpeg"
+    ],
+    "youtube_link": "https://www.youtube.com/watch?v=85kTHwJ1Ju8",
+    "featured": false,
+    "top_selling": false
+  },
+  {
+    "id": 7,
+    "name": "AGRI Grapes Pointer",
+    "category": "Liquids",
+    "details": [
+      "Grapes Pointer is researched unique product specially developed to fulfill nutritional requirement of crops.",
+      "Grapes Pointer helps to decreases flower drop, improves fruit setting inhance photosynthesis.",
+      "Grapes Pointer actively involved in cell division, cell elongation & uptake of nutrients.",
+      "It use reduces cracking, improves shelf life of produce.",
+      "Grapes Pointer helps to increases fruit weight, size, TSS content of fruit & Vegetables.",
+      "Grapes Pointer dose not leave any residue."
+    ],
+    "images": [
+      "https://i.imgur.com/3wt0PuG.jpeg",
+      "https://i.imgur.com/3wt0PuG.jpeg"
+    ],
+    "youtube_link": "https://www.youtube.com/watch?v=85kTHwJ1Ju8",
+    "featured": false,
+    "top_selling": false
+  },
+  {
+    "id": 8,
+    "name": "AGRI Liquid Amino",
+    "category": "Liquids",
+    "details": [
+      "Amino Acid 35 is from the hydrolyzed vegetable protein, containing 17 types of free Amino Acid and completely soluble in water. Amino Acid contains both organic",
+      "Nitrogen and inorganic Nitrogen which has dual function of supplying Nitrogen and Carbon.",
+      "It has significant effect on plants for promoting the growth and improving the absorptio of nutrition."
+    ],
+    "images": [
+      "https://i.imgur.com/6gLNayX.jpeg",
+      "https://i.imgur.com/6gLNayX.jpeg"
+    ],
+    "youtube_link": "https://www.youtube.com/watch?v=85kTHwJ1Ju8",
+    "featured": false,
+    "top_selling": false
+  },
+  {
+    "id": 9,
+    "name": "AGRI Liquid Humic",
+    "category": "Liquids",
+    "details": [
+      "Liquid Humic can be mixed with insecticides/ fungicides.",
+      "It reduces soil erosion and increases water holding capacity of soil, thus enhances the drought resistance of crops.",
+      "It reduces the requirement of inorganic fertilizers in root zone and releases the nutrients to plants when needed.",
+      "Liquid Humic in combination with Zinc increases the size of fruits."
+    ],
+    "images": [
+      "https://i.imgur.com/Mkq8oAE.jpeg",
+      "https://i.imgur.com/Mkq8oAE.jpeg"
+    ],
+    "youtube_link": "https://www.youtube.com/watch?v=85kTHwJ1Ju8",
+    "featured": false,
+    "top_selling": false
+  },
+  {
+    "id": 10,
+    "name": "AGRI Mix Combi",
+    "category": "Micro Nutrients",
+    "details": [
+      "Mix Combi plays an active role in respiratory function.",
+      "Mix Combi helps to overcome stress conditions.",
+      "Mix Combi helps to boost up energy metabolism in the plant.",
+      "Mix Combi provides ready made & easily assimiable source of nutrition.",
+      "Mix Combi helps in pollination & fruit formation."
+    ],
+    "images": [
+      "https://i.postimg.cc/Sx47gj9C/agri-mix-combi.jpg",
+      "https://i.postimg.cc/Sx47gj9C/agri-mix-combi.jpg"
+    ],
+    "youtube_link": "https://www.youtube.com/watch?v=85kTHwJ1Ju8",
+    "featured": true,
+    "top_selling": false
+  },
+  {
+    "id": 11,
+    "name": "AGRI Calcium EDTA",
+    "category": "Micro Nutrients",
+    "details": [
+      "Calcium enhances cell division, which helps in production of carbohydrates, it is essential for seed & fruit development, it acts as a regulator of potassium, Ferrous ratio in the plant, it helps in estrogen absorption in plant.",
+      "Ferrous is necessary for cell division Cell wall strength thickness are increased by Ferrous addition which results in strong & flexible stems, better testing quality produce & extends shelf life. Ferrous is essential for root& shoot growth & is a keystone for plant health & productivity."
+    ],
+    "images": [
+      "https://i.postimg.cc/g2fd9FYV/agri-calcium-edta.jpg",
+      "https://i.postimg.cc/g2fd9FYV/agri-calcium-edta.jpg"
+    ],
+    "youtube_link": "https://www.youtube.com/watch?v=85kTHwJ1Ju8",
+    "featured": false,
+    "top_selling": true
+  },
+  {
+    "id": 12,
+    "name": "AGRI Ferrous",
+    "category": "Micro Nutrients",
+    "details": [
+      "Chelated Ferrous is one of the most important micro nutrients equired for plants, trees, and lawn. Although most soils have plenty of tron (Fe), usually it's not available for plants and that's why iron (Fe) deficiency is very common in plants and it is also known as chlorosis (yellowing of leaves). "
+    ],
+    "images": [
+      "https://i.postimg.cc/QM1Dh4tR/agri-ferrous.jpg",
+      "https://i.postimg.cc/QM1Dh4tR/agri-ferrous.jpg"
+    ],
+    "youtube_link": "https://www.youtube.com/watch?v=85kTHwJ1Ju8",
+    "featured": false,
+    "top_selling": false
+  },
+  {
+    "id": 13,
+    "name": "AGRI Boron",
+    "category": "Micro Nutrients",
+    "details": [
+      "Boron is one of the seven micronutrients required by the plants for their healthier growth. Some of the symptoms shown by crops suffering from Boron deficiency are restricted flovvering and fruit development; discoloration, cracking or rotting of fruits & tubers; thickened, wilted or curly leaves. All these directly reduce the crop yield."
+    ],
+    "images": [
+      "https://i.postimg.cc/d1FY12ZD/agri-boron.jpg",
+      "https://i.postimg.cc/d1FY12ZD/agri-boron.jpg"
+    ],
+    "youtube_link": "https://www.youtube.com/watch?v=85kTHwJ1Ju8",
+    "featured": false,
+    "top_selling": false
+  },
+  {
+    "id": 14,
+    "name": "AGRI Zinc",
+    "category": "Micro Nutrients",
+    "details": [
+      "CHELATED ZINC EDTA 12% is essential for the transformations of carbohydrates. It regulates consumption of sugar. It is part of the enzyme system which regulate plant growth. It is associated with water uptake and water retantion in the plant."
+    ],
+    "images": [
+      "https://i.postimg.cc/1tKZN8DB/agri-zinc.jpg",
+      "https://i.postimg.cc/1tKZN8DB/agri-zinc.jpg"
+    ],
+    "youtube_link": "https://www.youtube.com/watch?v=85kTHwJ1Ju8",
+    "featured": false,
+    "top_selling": false
+  },
+  {
+    "id": 15,
+    "name": "AGRI PSP",
+    "category": "PGR",
+    "details": [
+      "PSP is unique formulation with benefit of nutrition to the plant & also increase plants own immune system is strengthening against fungal pathogens.",
+      "PSP controlling diseases caused by group of fungi know as comycetus including Phytophthora, pythium.",
+      "PSP rapidly absorbed in plant system & thus improves its health & growth.",
+      "PSP is used to control disease called Downy Mildew in grapes, apple, tomato, Pomegranate Chilli etc."
+    ],
+    "images": [
+      "https://i.postimg.cc/hGLWLjHX/agri-psp.jpg",
+      "https://i.postimg.cc/hGLWLjHX/agri-psp.jpg"
+    ],
+    "youtube_link": "https://www.youtube.com/watch?v=85kTHwJ1Ju8",
+    "featured": true,
+    "top_selling": false
+  },
+  {
+    "id": 16,
+    "name": "AGRI Seaweed",
+    "category": "PGR",
+    "details": [
+      "Seaweed is total organic Product.",
+      "It is increase the growth of chlorophyll & photosynthesis.",
+      "Seaweed is used as a soil treatment to grow healthier, stronger and more disease resistance plant.",
+      "Seaweed has improves stress tolerance of plants against drought, salt, cold and heat.",
+      "Seaweed is combination of organic naturally extracted substances which helps to grow crop naturally."
+    ],
+    "images": [
+      "https://i.postimg.cc/1zZb3Sfs/agri-seaweed.jpg",
+      "https://i.postimg.cc/1zZb3Sfs/agri-seaweed.jpg"
+    ],
+    "youtube_link": "https://www.youtube.com/watch?v=85kTHwJ1Ju8",
+    "featured": false,
+    "top_selling": true
+  },
+  {
+    "id": 17,
+    "name": "AGRI Fulvic",
+    "category": "PGR",
+    "details": [
+      "Fulvic provide insoluble nutrients into available forms to plants.",
+      "Retain water soluble fertilizers in the root zone & release them to plants when needed.",
+      "Promotes quicker germination & faster root & shoot growth.",
+      "Specially in grapes helps to increase berry pulp resulting more increase in girth & weight of grapes."
+    ],
+    "images": [
+      "https://i.postimg.cc/pLjgvrVs/agri-fulvic.jpg",
+      "https://i.postimg.cc/pLjgvrVs/agri-fulvic.jpg"
+    ],
+    "youtube_link": "https://www.youtube.com/watch?v=85kTHwJ1Ju8",
+    "featured": false,
+    "top_selling": false
+  },
+  {
+    "id": 18,
+    "name": "AGRI Amino",
+    "category": "PGR",
+    "details": [
+      "Amino promotes over all plant growth.",
+      "Amino Developing more fruiting & more yield.",
+      "Amino Enhance size, shape, taste & colour of fruits.",
+      "Amino Helps to increase white root zone.",
+      "Better Absorption of nutrients & increase enzymes activity.",
+      "Amino Develops resistance power of plant."
+    ],
+    "images": [
+      "https://i.postimg.cc/KcqXrCsD/agri-amino.jpg",
+      "https://i.postimg.cc/KcqXrCsD/agri-amino.jpg"
+    ],
+    "youtube_link": "https://www.youtube.com/watch?v=85kTHwJ1Ju8",
+    "featured": false,
+    "top_selling": false
+  },
+  {
+    "id": 19,
+    "name": "AGRI Organic Carbon",
+    "category": "PGR",
+    "details": [
+      "Soil Application if increases carbon percentage in soil.",
+      "Increasing flowering, greenery, Fruit weight, size & Shining.",
+      "Decreases flower and fruit dropping. Improve plant immunity and vitality.",
+      "Improves moisture storage to minimize the effect of drought.",
+      "Increases the permeability of plant membrane, improving the intake of nutrients."
+    ],
+    "images": [
+      "https://i.postimg.cc/90Nvmqqn/agri-organic-carbon.jpg",
+      "https://i.postimg.cc/90Nvmqqn/agri-organic-carbon.jpg"
+    ],
+    "youtube_link": "https://www.youtube.com/watch?v=85kTHwJ1Ju8",
+    "featured": false,
+    "top_selling": false
+  },
+  {
+    "id": 20,
+    "name": "AGRI Humic",
+    "category": "PGR",
+    "details": [
+      "Improves physical, chemical & biological condition of soil.",
+      "Increases root respiration and formation of new white roots.",
+      "Improve plant immunity power, photo-synthesis and metabolic activities of plant.",
+      "Enhances water holding capacity of soil.",
+      "Neutralize both acidic & alkaline soils, regulate the Ph of soil.",
+      "Enhance nutrient uptake by combining nutrient and humic acid and keep a well-balanced nutrition.",
+      "Stimulates plant enzymes for healthy growth of plants."
+    ],
+    "images": [
+      "https://i.postimg.cc/Pr9B0YHL/agri-humic.jpg",
+      "https://i.postimg.cc/Pr9B0YHL/agri-humic.jpg"
+    ],
+    "youtube_link": "https://www.youtube.com/watch?v=85kTHwJ1Ju8",
+    "featured": false,
+    "top_selling": false
+  },
+  {
+    "id": 21,
+    "name": "AGRI Calcium Nitrate",
+    "category": "Water Soluble NPK",
+    "details": [
+      "Its supplies N and Ca at growth stages, when Nitrogen is not required.",
+      "It is important in fruit formation, improves quality of seeds and fruit.",
+      "It effects rapid grov/th in all crops & encourages blooming and root growth.",
+      "This product is virtually free from chloride, sodium & other harmful material for crop.",
+      "Calcium Nitrate is useful for Healthy Vegetables growfth of all types of crops likes cotton, banana, sugarcane, pomegranate, grapes."
+    ],
+    "images": [
+      "https://i.postimg.cc/kGFsyT8S/agri-calcium-nitrate.jpg",
+      "https://i.postimg.cc/kGFsyT8S/agri-calcium-nitrate.jpg"
+    ],
+    "youtube_link": "https://www.youtube.com/watch?v=85kTHwJ1Ju8",
+    "featured": true,
+    "top_selling": false
+  },
+  {
+    "id": 22,
+    "name": "AGRI NPK 13:00:45",
+    "category": "Water Soluble NPK",
+    "details": [
+      "It supplies K at crop growth stages.",
+      "It is important in fruit formation, improves quality of seeds and fruit.",
+      "It effects rapid growth in all crops & encourages blooming and root growth.",
+      "This product is virtually free from chloride, sodium & other harmful material for crop."
+    ],
+    "images": [
+      "https://i.postimg.cc/WbvfJkrr/agri-npk-13-00-45.jpg",
+      "https://i.postimg.cc/WbvfJkrr/agri-npk-13-00-45.jpg"
+    ],
+    "youtube_link": "https://www.youtube.com/watch?v=85kTHwJ1Ju8",
+    "featured": false,
+    "top_selling": true
+  },
+  {
+    "id": 23,
+    "name": "AGRI NPK 00:60:20",
+    "category": "Water Soluble NPK",
+    "details": [
+      "For uniform and excellent vegetative growth.",
+      "For root development, equal & uniform flowering.",
+      "For increasing fruit size, weight & quality.",
+      "For strengthening plant cells.",
+      "For increasing colour, sugar & quality,",
+      "For reducing flower drop.",
+      "For increasing keeping quality of fruit."
+    ],
+    "images": [
+      "https://i.postimg.cc/hvFZsJ5k/agri-npk-00-60-20.jpg",
+      "https://i.postimg.cc/hvFZsJ5k/agri-npk-00-60-20.jpg"
+    ],
+    "youtube_link": "https://www.youtube.com/watch?v=85kTHwJ1Ju8",
+    "featured": false,
+    "top_selling": false
+  },
+  {
+    "id": 24,
+    "name": "AGRI NPK 19:19:19",
+    "category": "Water Soluble NPK",
+    "details": [
+      "100% Water Soluble Fertilizer NP.K. 19:19.19 is a specially.",
+      "100% soluble fertilizer specially design. Designed to supplement nutritional requirement of growing crops.",
+      "N.P.K. 19:19:19 fertilizer will be dissolved in clean water and applied to crop through drip irrigation"
+    ],
+    "images": [
+      "https://i.postimg.cc/R0ygC64W/agri-npk-19-19-19.jpg",
+      "https://i.postimg.cc/R0ygC64W/agri-npk-19-19-19.jpg"
+    ],
+    "youtube_link": "https://www.youtube.com/watch?v=85kTHwJ1Ju8",
+    "featured": false,
+    "top_selling": false
+  },
+  {
+    "id": 25,
+    "name": "AGRI NPK 00:52:34",
+    "category": "Water Soluble NPK",
+    "details": [
+      "100% Water Soluble Fertilizer NP.K. 00:52:34 is a specially",
+      "100% soluble fertilizer specially design. Designed to supplement nutritional requirement of grovving crops. N.P.K. 00:52:34 fertilizer will be dissolved in clean water and applied to crop through drip irrigation."
+    ],
+    "images": [
+      "https://i.postimg.cc/4NPw7FXk/agri-npk-00-52-34.jpg",
+      "https://i.postimg.cc/4NPw7FXk/agri-npk-00-52-34.jpg"
+    ],
+    "youtube_link": "https://www.youtube.com/watch?v=85kTHwJ1Ju8",
+    "featured": false,
+    "top_selling": false
+  },
+  {
+    "id": 26,
+    "name": "AGRI NPK 00:00:50",
+    "category": "Water Soluble NPK",
+    "details": [
+      "It supplies K at crop growth stages.",
+      "It is important in fruit formation, improves quality of seeds and fruit.",
+      "It effects rapid growth in all crops & encourages blooming and root growth.",
+      "This product is virtually free from chloride, sodium & other harmful material for crop."
+    ],
+    "images": [
+      "https://i.postimg.cc/mD98PLg8/agri-npk-00-00-50.jpg",
+      "https://i.postimg.cc/mD98PLg8/agri-npk-00-00-50.jpg"
+    ],
+    "youtube_link": "https://www.youtube.com/watch?v=85kTHwJ1Ju8",
+    "featured": false,
+    "top_selling": false
+  },
+  {
+    "id": 27,
+    "name": "AGRI NPK 12:61:00",
+    "category": "Water Soluble NPK",
+    "details": [
+      "It supplies K at crop growth stages.",
+      "It is important in fruit formation, improves quality of seeds and fruit.",
+      "It effects rapid growth in all crops & encourages blooming and root growth.",
+      "This product is virtually free from chloride, sodium & other harmful material for crop."
+    ],
+    "images": [
+      "https://i.postimg.cc/tRhBy4fg/agri-npk-12-61-00.jpg",
+      "https://i.postimg.cc/tRhBy4fg/agri-npk-12-61-00.jpg"
+    ],
+    "youtube_link": "https://www.youtube.com/watch?v=85kTHwJ1Ju8",
+    "featured": false,
+    "top_selling": false
+  }
+]
