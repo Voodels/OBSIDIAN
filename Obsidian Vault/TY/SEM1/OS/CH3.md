@@ -59,6 +59,4 @@ https://medium.com/@akshat.mistry/zombie-vs-orphan-process-21643ec75558
 ![[Pasted image 20240901174523.png]]
 ![[Pasted image 20240901174531.png]]
 ![[Pasted image 20240901174542.png]]
-
-
 ![[Pasted image 20240901185649.png]]![[Pasted image 20240901185700.png]]

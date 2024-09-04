@@ -6,7 +6,7 @@ Matrix multiplication
 	A(i x j) B(k x l)
 	 j == k is compulsory 
 	 first row of A multiplies with first column of B
-	 ![[Pasted image 20240821225148.png]]
+	![[Pasted image 20240821225148.png]]
 	 cost of multiplying is 5 * 4 * 3 == 60 calculations 
 
 MCM is about how to parenthesis these matrix 
